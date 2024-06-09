@@ -32,9 +32,13 @@ Certifique-se de ter o Python instalado em sua máquina.
        SB15_13.py
        SB15_12.py
        SB15_11.py
+   
    Data_Generator/
        Data_Generator.py
+   
    Data_Logs/
+         ...
+   
    Main.py
    ```
 
@@ -69,4 +73,4 @@ Isso executará a função `sb15_14`, mostrando o custo e o tempo de execução.
 
 ## Autores
 
-[Marcelo Wzorek Filho]
+Marcelo Wzorek Filho
